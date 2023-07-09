@@ -190,4 +190,7 @@ button:hover {
   .container_summry-status {
     width: 100%;
   }
+  .container_overall {
+    padding: 32px;
+  }
 }
